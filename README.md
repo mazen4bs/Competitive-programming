@@ -33,7 +33,8 @@ The second line of each query contains n
 
 Output
 For each query print one integer in a single line — the maximum possible number of elements divisible by 3
- that are in the array after performing described operation an arbitrary (possibly, zero) number of times.
+ that are in the array after performing described operation an arbitrary (possibly, zero) number of times.<br>
+ Solution:https://github.com/mazen4bs/Competitive-programming/blob/main/Merge-it.cpp
  # Ada and Queue
  Ada the Ladybug has many things to do. She puts them into her queue. Anyway she is very indecisive, so sometime she uses the top, sometime the back and sometime she decides to reverses it.
 
@@ -55,7 +56,8 @@ All numbers will be 0 ≤ N ≤ 100
 Output
 For each back/front query print appropriate number.
 
-If you would get this type of query and the queue would be empty, print "No job for Ada?" instead.
+If you would get this type of query and the queue would be empty, print "No job for Ada?" instead.<br>
+solution:https://github.com/mazen4bs/Competitive-programming/blob/main/Ada-and-queue.cpp
  # Balanced Brackets 
 A bracket is considered to be any one of the following characters: ( , ) , { , } , [ , or ] .
 Two brackets are considered to be a matched pair if the an opening bracket (i.e., ( , [ , or { )
@@ -79,5 +81,5 @@ Returns
 string: either YES or NO
 Input Format
 The first line contains a single integer , the number of strings.
-Each of the next lines contains a single string , a sequence of brackets.
+Each of the next lines contains a single string , a sequence of brackets.<br>
 Solution: https://github.com/mazen4bs/Competitive-programming/blob/main/Balanced%20Brackets.cpp
