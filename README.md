@@ -34,7 +34,28 @@ The second line of each query contains n
 Output
 For each query print one integer in a single line — the maximum possible number of elements divisible by 3
  that are in the array after performing described operation an arbitrary (possibly, zero) number of times.
- 
+ # Ada and Queue
+ Ada the Ladybug has many things to do. She puts them into her queue. Anyway she is very indecisive, so sometime she uses the top, sometime the back and sometime she decides to reverses it.
+
+Input
+The first line consists of 1 ≤ Q ≤ 106, number of queries. Each of them contains one of following commands
+
+back - Print number from back and then erase it
+
+front - Print number from front and then erase it
+
+reverse - Reverses all elements in queue
+
+push_back N - Add element N to back
+
+toFront N - Put element N to front
+
+All numbers will be 0 ≤ N ≤ 100
+
+Output
+For each back/front query print appropriate number.
+
+If you would get this type of query and the queue would be empty, print "No job for Ada?" instead.
  # Balanced Brackets 
 A bracket is considered to be any one of the following characters: ( , ) , { , } , [ , or ] .
 Two brackets are considered to be a matched pair if the an opening bracket (i.e., ( , [ , or { )
