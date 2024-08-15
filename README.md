@@ -224,3 +224,4 @@ The first and only line contains the word s, which Vasya typed. This word consis
 
 Output
 If Vasya managed to say hello, print "YES", otherwise print "NO".
+solution: https://github.com/mazen4bs/Competitive-programming/blob/main/chatroom.cpp
